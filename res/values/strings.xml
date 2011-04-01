@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Main_popup!</string>
+    <string name="app_name">EzPaste</string>
+    <string name="accuracy_unknown">Accuracy Unknown</string>
+    <string name="calibrate">Calibrate</string>
+    <string name="no_accelerometer">No Accelerometer</string>
+    <string name="accuracy_unreliable">Accuracy Unreliable</string>
+    <string name="accuracy_low">Accuracy Low</string>
+    <string name="accuracy_medium">Accuracy Medium</string>
+    <string name="accuracy_high">Accuracy High</string>
+    
+</resources>

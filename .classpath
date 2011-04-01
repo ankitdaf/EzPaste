@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="com/ezpaste/Acce.java|com/ezpaste/AccelerometerListener.java|com/ezpaste/Accelman.java|com/ezpaste/Adapter_bt.java|com/ezpaste/Btinfo.java|com/ezpaste/Btlist.java|com/ezpaste/Btsend.java|com/ezpaste/Clipcheck.java|com/ezpaste/ShakeActivity.java" kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
